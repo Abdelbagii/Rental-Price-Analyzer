@@ -1,4 +1,4 @@
-# USA Rental Price Analyzer
+# Rental Price Analyzer
 
 A machine learning web application that predicts estimated monthly rental prices in the USA using property and location features.
 
